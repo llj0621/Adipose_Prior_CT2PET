@@ -58,7 +58,7 @@ Lightweight 3-level UNet for **residual refinement** on frozen Stage-1 output.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/Adipose_Prior_CT2PET.git
+git clone https://github.com/llj0621/Adipose_Prior_CT2PET.git
 cd Adipose_Prior_CT2PET
 pip install -e .
 ```
